@@ -1,0 +1,6 @@
+show this shape in center off consol
+"  //////////  "
+" |  0   0  |"
+"(|    ^    |)"
+" |         |"
+" |    _    |"
